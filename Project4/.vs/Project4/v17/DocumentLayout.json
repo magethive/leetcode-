@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\leetcode\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81ECB5F-8589-46F2-9758-10C76CEDAE46}|Project4.vcxproj|D:\\code\\leetcode\\Project4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A81ECB5F-8589-46F2-9758-10C76CEDAE46}|Project4.vcxproj|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\code\\leetcode\\Project4\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "D:\\code\\leetcode\\Project4\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-29T06:21:58.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
